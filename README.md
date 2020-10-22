@@ -1,6 +1,6 @@
-# awsome-rcnn
+# awesome-rcnn
 
-Contains detials of extra ordinary capability or a breakthrough of RCNN Genus/Family
+Contains detials of extra ordinary capability or a breakthrough of R-CNN Genus/Family
 
 - R-CNN- 2013 - [paper](https://arxiv.org/abs/1311.2524), [code](https://github.com/rbgirshick/rcnn)
 
@@ -15,6 +15,12 @@ Contains detials of extra ordinary capability or a breakthrough of RCNN Genus/Fa
 - Plane R-CNN - 2018 - [paper](https://arxiv.org/abs/1812.04072), [code](https://github.com/NVlabs/planercnn)
 
 - Reasoning R-CNN - 2019 - [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.pdf), [code](https://github.com/chanyn/Reasoning-RCNN)
+
+- PV-R-CNN - 2020 - [paper](https://arxiv.org/abs/1912.13192)  ,[code](https://github.com/sshaoshuai/PV-RCNN)
+
+- Siam R-CNN - 2020 - [paper](https://arxiv.org/abs/1911.12836) ,[code](https://github.com/VisualComputingInstitute/SiamR-CNN)
+
+
 
 ### Blogs on R-CNN Family
 
